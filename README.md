@@ -16,7 +16,7 @@ Feel free to explore, fork, and contribute to any of my projects. Don't hesitate
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=odd509&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 🛠️ Technologies & Tools
 
