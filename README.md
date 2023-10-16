@@ -4,7 +4,7 @@
   <h2>🚀 GitHub Stats 🚀</h2>
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=odd509&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=odd509&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
 
   <br><br>
 
